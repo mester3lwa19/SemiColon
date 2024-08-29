@@ -21,7 +21,7 @@
 // }
 // for(let ele of obj) console.log(obj);
 let arr = [1,2,3];
-// hallo
+// hallo I love you
 let newArr = [];
 for(let ele of arr) {
     newArr.push(ele+1);
